@@ -33,3 +33,6 @@ Please follow these guidelines when contributing:
 ## Contact and Support
 
 If you have any questions or feedback about this theme, feel free to contact me via email at `dynamicyt155@gmail.com`. 
+
+## Credits
+https://github.com/enkia/tokyo-night-vscode-theme
