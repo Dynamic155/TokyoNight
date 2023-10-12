@@ -6,13 +6,13 @@ TokyoNight is a dark theme with a touch of neon inspired by the night view of To
 It is completely up to you how you want to utelize these themes. My preferred way is to use a browser extension called Stylus. 
 
 ### Chrome
-https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne
+[Stylus Chrome Store](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)
 
 ### FireFox
-https://addons.mozilla.org/en-US/firefox/addon/styl-us/
+[Stylus FireFox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/)
 
 ### Download
-You can download the CSS files for this theme from the [releases page] on GitHub. 
+You can copy any any of the CSS from the various files above and use that in a theming extension.
 
 ## Contributing
 
