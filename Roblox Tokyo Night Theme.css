@@ -1,4 +1,3 @@
-@-moz-document url-prefix("https://www.roblox.com/") {
 .dark-theme .content {
     background-color: #1A1B26;
     color: #fff;
@@ -59,13 +58,6 @@
 .dark-theme .rbx-tab .rbx-tab-heading {
     background-color: #16161e;
     color: #fff;
-}
-
-.dark-theme .btn-common-play-game-lg {
-    background-color: #16161e;
-    border-color: #1A1B26;
-    color: #fff;
-    border-radius: 8px;
 }
 
 .dark-theme .input-field {
@@ -238,4 +230,15 @@
     width: 280px;
     height: 360px;
 }
+
+@keyframes FadeButton { 
+    0% {background-color: #7aa2f7;border-color: #7aa2f7;} 
+    25% {background-color: #7dcfff;border-color: #7dcfff;} 
+    50% {background-color: #7aa2f7;border-color: #7aa2f7;} 
+    75% {background-color: #7dcfff;border-color: #7dcfff;} 
+    100% {background-color: #7aa2f7;border-color: #7aa2f7;} 
+}
+
+.btn-common-play-game-lg {
+    animation: FadeButton 10s infinite;
 }
