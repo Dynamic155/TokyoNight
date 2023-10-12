@@ -1,6 +1,6 @@
 # Tokyo Night Web
 
-TokyoNight is a dark theme with a touch of neon inspired by the night view of Tokyo. It has two variants, Storm and Night, with different accent colors. This theme is designed to work with any website that supports custom CSS. You can easily apply this theme to your website using the provided CSS files.
+TokyoNight is a dark theme with a touch of neon inspired by the night view of Tokyo. It has two variants, Storm and Night, with different accent colors. This Repository is for all the Tokyo Night Inspired Themes I have made for other websites. You can easily apply this theme to your website using the provided CSS files.
 
 ## Installation and Usage
 It is completely up to you how you want to utelize these themes. My preferred way is to use a browser extension called Stylus. 
